@@ -1,0 +1,21 @@
+html {
+    font-family: Comic Sans MS, Arial, Helvetica, sans-serif;
+    text-align: center;
+    background: #000;
+    color: #fff;
+}
+
+* {
+    padding: 0; margin: 0; 
+}
+
+canvas {
+    background: #eee; 
+    display: block;
+    margin: 0 auto;
+    border-radius: 0.25rem;
+}
+
+header {
+    margin-bottom: 50px;
+}
